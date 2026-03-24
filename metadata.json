@@ -1,0 +1,7 @@
+{
+  "description": "Integrated Driver Drowsiness and Rear Vehicle Monitoring System",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "SafetyVision Pro"
+}
